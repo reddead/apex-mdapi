@@ -1,0 +1,18 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "apex-mdapi",
+      "versionDescription": "apex-mdapi"
+    }
+  ],
+  "namespace": "",
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "apex-mdapi": "0HoHr000000PFeRKAW",
+    "apex-mdapi@0.1.0-1": "04tHr000000whJCIAY"
+  }
+}
